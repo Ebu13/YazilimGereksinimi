@@ -1,2 +1,1 @@
-# Yaz-l-mGereksinimi
-Yazılım Gereksinimi ve Analizi
+# Yazılım Gereksinimi ve Analizi || Yazılım Tasarımı ve Mimarisi
